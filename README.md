@@ -1,6 +1,7 @@
 Hi, I'm Alberto Ventura, nice to e-meet you :)
 
-- Flutter 💜
+- Angular
+- Ionic
 - Front-End Developer
 - UI/UX Design
 
